@@ -1,3 +1,7 @@
 Abdullah Sabbir
 Zip Code: 12345
+<<<<<<< HEAD
 Phone Number: 333-444-5555
+=======
+GitHUb UserName: abdullahsabbir9
+>>>>>>> e06fe120bbcdda4ed5b0ca21f3ebdcf5018bbc63
